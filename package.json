@@ -1,5 +1,5 @@
 {
-  "name": "fmtdate",
+  "name": "sjl_format-date",
   "version": "1.0.0",
   "description": "date formate",
   "main": "index.js",
