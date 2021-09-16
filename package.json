@@ -1,0 +1,22 @@
+{
+  "name": "fmtdate",
+  "version": "1.0.0",
+  "description": "date formate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Sjling/formatDate.git"
+  },
+  "keywords": [
+    "dateformat(日期格式化)"
+  ],
+  "author": "shijinling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sjling/formatDate/issues"
+  },
+  "homepage": "https://github.com/Sjling/formatDate#readme"
+}
